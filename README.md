@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix Maldonado, a Biomedical Engineering Master's candidate in Biomedical Engineering at Drexel University!
+- 👋 Hi, I’m Felix Maldonado, a Biomedical Engineering Master's candidate at Drexel University!
 - 👀 I’m interested in systems development for neuroengineering applications.
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on...
