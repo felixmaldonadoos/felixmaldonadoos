@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Felix Maldonado, a Biomedical Engineering Master's candidate at Drexel University!
-- 👀 I’m interested in systems development for neuroengineering applications. Some of my skills include signal processing, ML applications for physiological data, computer vision, IOT.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me: fam48@drexel.edu
+- 👋 Hi, I’m Felix Maldonado, a Biomedical Engineering PhD student at Northwestern University, Evanston, Illinois! 
+- 👀 I’m interested in VR development for neuroengineering applications, specifically in helping understand learning.
+- 🌱 I’m currently practicing C++ for VR development in Unreal Engine.
+- 📫 How to reach me: famaldonadoos@gmail.com
 
 <!---
 felixmaldonadoos/felixmaldonadoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
