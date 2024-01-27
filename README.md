@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix Maldonado, a Biomedical Engineering PhD student at Northwestern University, Evanston, Illinois! 
+- 👋 Hi, I’m Felix Maldonado (I go by "Alex"), a Biomedical Engineering PhD student at Northwestern University, Evanston, Illinois! My research is focused on studying behavior in ethologically valid environments in Unreal Engine VR :) 
 - 👀 I’m interested in VR development for neuroengineering applications, specifically in helping understand learning.
 - 🌱 I’m currently practicing ODE simulations modeling and GUI rendering in C++ with cmake.
 - 📫 How to reach me: famaldonadoos@gmail.com
