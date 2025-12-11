@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Felix Maldonado (I go by "Alex"), a Biomedical Engineering PhD student at Northwestern University. My research is focused on studying behavior in ethologically relevant environments in VR, primarily using Unreal Engine :) 
-- 👀 I’m interested in VR development for neuroengineering applications, specifically in helping understand learning.
+- 👋 Hi, I’m Felix Maldonado (I go by "Alex"), a Biomedical Engineering PhD student at Northwestern University. My research is focused on computational modeling of non-invasive brain stimulation and their clincal outcomes :) 
+- 👀 I’m interested in VR development for neuroengineering applications, specifically to study learning and cognition.
 - 📫 How to reach me: felixmaldonado2023@u.northwestern.edu
 
 <!---
